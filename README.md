@@ -1,4 +1,4 @@
-# Stormline — Numerical Weather Lab
+# Stormline Numerical Weather Lab
 
 **A reproducible C++ experiment on numerical precision, chaotic weather models, and storm-threshold changes.**
 
